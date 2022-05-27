@@ -1,0 +1,2 @@
+python connectz.py
+pause
